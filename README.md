@@ -1,4 +1,5 @@
 # cse210-ww-student-template
+Yolanda de Lopez
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
